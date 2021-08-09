@@ -1,6 +1,6 @@
 {
-  "title": "Install Tyk OSS on Kubernetes with Helm",
-  "description": "Install the open source Tyk API Gateway on Kubernetes using the official Tyk Helm charts",
+  "title": "Tyk OSS: Deploy on Kubernetes using Tyk Helm chart",
+  "description": "Learn how to install the open source Tyk API Gateway on K8s using the Tyk Helm chart",
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
