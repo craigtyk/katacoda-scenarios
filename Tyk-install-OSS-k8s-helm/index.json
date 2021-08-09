@@ -6,19 +6,19 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1 - Add the Tyk Helm repo",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step 2 - Install Redis",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Step 3 - Install the Tyk OSS Gateway",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Step 4 - Review your Installation",
         "text": "step4.md"
       }
     ],
