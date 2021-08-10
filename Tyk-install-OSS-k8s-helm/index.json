@@ -17,10 +17,6 @@
         "title": "Step 3 - Install the Tyk OSS Gateway",
         "text": "step3.md"
       },
-      {
-        "title": "Step 4 - Review your Installation",
-        "text": "step4.md"
-      }
     ],
     "intro": {
       "text": "intro.md",
