@@ -16,7 +16,7 @@
       {
         "title": "Step 3 - Install the Tyk OSS Gateway",
         "text": "step3.md"
-      },
+      }
     ],
     "intro": {
       "text": "intro.md",
