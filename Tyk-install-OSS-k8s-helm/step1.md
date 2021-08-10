@@ -1,6 +1,8 @@
 As you wait for the k8s cluster to start (1-2min) check out our official Helm repository:  https://helm.tyk.io/public/helm/charts/. You can also find the Tyk OSS Helm chart in [ArtifactHUB](https://artifacthub.io/packages/helm/tyk-helm/tyk-headless "ArtifactHUB Tyk OSS Gateway").
 
+
 When ready, follow the steps below to prepare your cluster for installation:
+
 
 *  Add the Tyk official Helm repo
 
