@@ -33,6 +33,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "docker-swarm"
+    "imageid": "ubuntu:2004"
   }
 }
