@@ -1,6 +1,6 @@
 {
   "title": "Tyk install OSS Gateway on RedHat",
-  "description": "Install the open source Tyk API Gateway on RedHat RHOS",
+  "description": "Install the open source Tyk API Gateway on RedHat CentOS",
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
