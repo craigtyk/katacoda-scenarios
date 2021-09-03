@@ -1,6 +1,6 @@
 You now know how to install the Tyk Gateway on K8s using the official Tyk Helm chart.
 
-![Mascot](./assets/stickers_03a.jpg)
+<img src="https://github.com/craigtyk/katacoda-scenarios/tree/main/Tyk-install-OSS-k8s-helm/assets/stickers_03a.jpg" width="200" height="200">
 
 ## Lessons learned
 During the scenario you successfully
