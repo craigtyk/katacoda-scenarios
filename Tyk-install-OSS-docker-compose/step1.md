@@ -2,8 +2,8 @@ Getting started with Tyk couldn't be easier than with Docker compose. This step 
 
 Visit [Dockerhub](https://hub.docker.com/u/tykio/ "Tyk Docker images") to view all official images.
 
-*  Clone the docker-compose repository
+*  Clone the docker-compose repository  
 `git clone https://github.com/TykTechnologies/tyk-gateway-docker`{{execute}}
 
-*  Change to the new directory
+*  Change to the new directory  
 `cd tyk-gateway-docker`{{execute}}
