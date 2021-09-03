@@ -1,9 +1,9 @@
-You now know how to install the Tyk Gateway on K8s using the official Tyk Helm chart.
+You now know how to install the Tyk Gateway on K8s using the official Tyk Helm chart.  
 
 ![Mascot](./assets/stickers_03a.jpg)
 
-## Lessons learned
-During the scenario you successfully
+## Lessons learned  
+During the scenario you successfully  
 *  Added the Tyk Helm repo
 *  Installed Redis and confirmed it was running
 *  Installed the Tyk gateway
