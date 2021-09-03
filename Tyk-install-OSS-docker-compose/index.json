@@ -2,24 +2,16 @@
   "title": "Tyk OSS: Deploy on Docker using Docker Compose",
   "description": "Learn how to install the open source Tyk API Gateway on Docker using Docker Compose",
   "difficulty": "Beginner",
-  "time": "10 minutes",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1 - Clone the Docker Compose repo",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step 2 - Deploy Redis and Tyk",
         "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
       }
     ],
     "intro": {
@@ -30,7 +22,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "ubuntu:1804"
