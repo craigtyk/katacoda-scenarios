@@ -1,6 +1,6 @@
 You now know how to install the Tyk Gateway on K8s using the official Tyk Helm chart.  
 
-![Mascot](./assets/stickers_03a.jpg)
+![Mascot](./assets/Basic_Tyk1.png)
 
 ## Lessons learned  
 During the scenario you successfully  
