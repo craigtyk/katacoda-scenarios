@@ -39,10 +39,10 @@
   },
   "environment": {
     "showdashboards": true,
+    "dashboard": [{"name": "Dashboard", "href": "https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com"}],
     "uilayout": "terminal-iframe"
   },
   "backend": {
-    "imageid": "ubuntu1804",
-    "href": "https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com"
+    "imageid": "ubuntu1804"
   }
 }
