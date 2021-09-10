@@ -38,9 +38,12 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "showdashboards": true,
+    "uilayout": "terminal-iframe"
   },
   "backend": {
-    "imageid": "ubuntu1804"
+    "imageid": "ubuntu1804",
+    "url": "https://www.tyk-portal-test.com",
+    "port": 3000
   }
 }
