@@ -43,7 +43,6 @@
   },
   "backend": {
     "imageid": "ubuntu1804",
-    "url": "https://www.tyk-portal-test.com",
-    "port": 3000
+    "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"
   }
 }
