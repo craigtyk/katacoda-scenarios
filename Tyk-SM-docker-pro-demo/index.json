@@ -39,7 +39,7 @@
   },
   "environment": {
     "showdashboards": true,
-    "dashboard": [{"name": "Dashboard", "href": "https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com"}],
+    "dashboards": [{"name": "Dashboard", "href": "https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com"}],
     "uilayout": "terminal-iframe"
   },
   "backend": {
