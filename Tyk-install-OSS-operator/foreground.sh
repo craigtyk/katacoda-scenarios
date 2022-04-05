@@ -1,4 +1,7 @@
 #!/bin/bash
+launch.sh
+process_id=$!
+wait $process_id
 helm repo add tyk-helm https://helm.tyk.io/public/helm/charts/
 helm repo update
 kubectl create namespace tyk
